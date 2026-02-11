@@ -42,7 +42,7 @@ I architect mission-critical enterprise systems and intelligent automation workf
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-profile-link](https://www.linkedin.com/in/asadbaig760/)
+- **LinkedIn:** [linkedin.com/in/asadbaig760/](https://www.linkedin.com/in/asadbaig760/)
 - **Email:** [career.asadbaig@gmail.com](mailto:career.asadbaig@gmail.com)
 
 ---
